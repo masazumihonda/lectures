@@ -1,1 +1,1 @@
-# files for lectures
+# Files on lectures
